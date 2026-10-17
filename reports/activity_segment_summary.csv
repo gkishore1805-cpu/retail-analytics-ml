@@ -1,0 +1,4 @@
+activity_segment,customers,avg_order_value,repeat_purchase_rate
+Low (0-1),218,1387.175,0.271
+Medium (2-4),737,1442.686,0.332
+High (5+),245,1442.99,0.559
